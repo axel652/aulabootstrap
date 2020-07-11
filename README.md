@@ -1,2 +1,0 @@
-# aulabootstrap
-utilizando boostrap
